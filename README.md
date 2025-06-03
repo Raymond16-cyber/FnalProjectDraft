@@ -1,6 +1,6 @@
 # 💬 MERN Chat App (Lab Phase Submission)
 
-This is a **MERN-based real-time chat application**, developed as part of the Lab Phase for the final project. The app supports secure authentication, friend management, and real-time messaging using **Socket.IO**.
+This is a **MERN-based real-time chat application**, developed as part of the Lab Phase for my final project. The app supports secure authentication, friend management, and real-time messaging using **Socket.IO**.
 
 ## 📌 Project Status
 🚧 Draft phase  
